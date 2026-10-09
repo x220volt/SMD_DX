@@ -9,3 +9,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.download-button{transition:none}.download-button:hover,.contents a:hover{transform:none}}
 
 .title-copy h1>.original-title{display:block;font-family:"Yu Gothic","Meiryo",sans-serif;font-size:17px;line-height:1.6;font-weight:400;letter-spacing:1px;color:var(--muted);text-shadow:none;margin:4px 0 12px}@media(max-width:680px){.title-copy h1>.original-title{font-size:15px;letter-spacing:.5px}}
+
+.footer .contact{margin-top:16px;font-size:12px;letter-spacing:0;color:var(--ink)}.footer .contact a{text-decoration:underline;text-underline-offset:4px;overflow-wrap:anywhere}
